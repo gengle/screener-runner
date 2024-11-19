@@ -39,18 +39,18 @@
     "portfinder": "~1.0.10",
     "request": "~2.87.0",
     "requestretry": "~2.0.2",
-    "saucelabs": "~4.6.2",
+    "saucelabs": "~8.0.0",
     "screener-ngrok": "2.2.29",
     "shortid": "~2.2.15"
   },
   "devDependencies": {
     "chai": "~3.5.0",
     "chai-fs": "^2.0.0",
-    "eslint": "^4.18.2",
+    "eslint": "^9.15.0",
     "mocha": "~5.2.0",
     "mock-require": "^3.0.3",
     "nock": "~9.0.2",
-    "nyc": "^14.1.1",
+    "nyc": "^17.1.0",
     "rewire": "~2.5.2",
     "sinon": "~7.5.0"
   }
